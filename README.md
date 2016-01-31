@@ -36,7 +36,7 @@ For each record it is provided:
 The dataset includes the following files:
 =========================================
 
-- '_README.txt'
+- 'README.md'
 
 - 'Codebook.txt': Shows information about the variables used on the feature vector.
 
